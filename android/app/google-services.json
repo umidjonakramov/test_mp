@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "995029233673",
+    "project_id": "yandexmaps-a0d8c",
+    "storage_bucket": "yandexmaps-a0d8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995029233673:android:6b4a90c5ca5a03ac0948d8",
+        "android_client_info": {
+          "package_name": "com.example.maps_umg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKKJsaNukguXJNooYy2BGxUb6BS0P7Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995029233673:android:14196de546e5e7dc0948d8",
+        "android_client_info": {
+          "package_name": "com.example.test_mp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKKJsaNukguXJNooYy2BGxUb6BS0P7Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995029233673:android:b5575eaf96f7bf360948d8",
+        "android_client_info": {
+          "package_name": "com.example.ui_umg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKKJsaNukguXJNooYy2BGxUb6BS0P7Ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
